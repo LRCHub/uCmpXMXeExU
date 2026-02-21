@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "good enough",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2026-02-21T11:55:19.563766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Enough For Me",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/01_Good_Enough_For_Me_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Enough for Now",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/02_Good_Enough_for_Now_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/03_Good_Enough_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/04_Good_Enough_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Princess Chelsea",
+      "has_synced": true,
+      "path": "select/05_Good_Enough_Princess_Chelsea.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're Not Good Enough",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/06_You're_Not_Good_Enough_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Best Wasn't Good Enough",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/07_My_Best_Wasn't_Good_Enough_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Sarah McLachlan",
+      "has_synced": false,
+      "path": "select/08_Good_Enough_Sarah_McLachlan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Sarah McLachlan",
+      "has_synced": true,
+      "path": "select/09_Good_Enough_Sarah_McLachlan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Enough For Grandad",
+      "artist": "Squirrel Nut Zippers",
+      "has_synced": false,
+      "path": "select/10_Good_Enough_For_Grandad_Squirrel_Nut_Zippers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Enough for Grandad",
+      "artist": "The Squirrel Nut Zippers",
+      "has_synced": false,
+      "path": "select/11_Good_Enough_for_Grandad_The_Squirrel_Nut_Zippers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/12_Good_Enough_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anything Is Good Enough",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/13_Anything_Is_Good_Enough_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Your Fake Name Is Good Enough For Me",
+      "artist": "Iron & Wine",
+      "has_synced": false,
+      "path": "select/14_Your_Fake_Name_Is_Good_Enough_For_Me_Iron_&_Wine.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Enough Is Good Enough",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/15_Good_Enough_Is_Good_Enough_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Goonies 'R' Good Enough",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/16_The_Goonies_'R'_Good_Enough_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/17_Good_Enough_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Enough",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/18_Good_Enough_Little_Mix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "good enough",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_good_enough_FLOW_GLOW.txt"
+    }
+  ]
+}
